@@ -1,8 +1,7 @@
 
 ## Installation
-python version python 3.13.2
-
-
+python version python 3.13.
+Demo link https://www.youtube.com/watch?v=TDZ1eFmpskg
 ```bash
   git clone https://github.com/HemGR/ecommerce-shopping-Assistant.git
 ```
@@ -31,8 +30,5 @@ Run python code
 ```bash
   streamlit run ecommerceapp.py
 
-
-
-Demo link https://www.youtube.com/watch?v=TDZ1eFmpskg
 
 ```
